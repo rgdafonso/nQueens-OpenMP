@@ -4,9 +4,6 @@ Introducao ao Processamento Paralelo e Distribuido
 
 N-Queens com OpenMP
 
-Marina Souza Cruzeiro
-Roger Dilli Afonso
-
 Abril/2021
 */
 #include <stdio.h>
