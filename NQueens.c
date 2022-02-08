@@ -1,11 +1,8 @@
 /*
 Introducao ao Processamento Paralelo e Distribuido
-1บ trabalho - parte 1
+1ยบ trabalho - parte 1
 
-N-Queens com OpenMP
 
-Marina Souza Cruzeiro
-Roger Dilli Afonso
 
 Abril/2021
 */
@@ -54,7 +51,7 @@ int insert (int count, int board[N][N]) {
 	
 	int i, j;
 	
-	// verifica se jแ completou o tabuleiro
+	// verifica se jรก completou o tabuleiro
 	if (count == N-1) {
 		return true;
 	}
